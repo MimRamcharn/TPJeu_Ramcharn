@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mim/Documents/SE_TPJeu/TPJeu_Ramcharn/include/func.h
+
+/home/mim/Documents/SE_TPJeu/TPJeu_Ramcharn/src/func.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+ctype.h
+-
+string.h
+-
+../include/func.h
+/home/mim/Documents/SE_TPJeu/TPJeu_Ramcharn/include/func.h
+
+/home/mim/Documents/SE_TPJeu/TPJeu_Ramcharn/src/pendu.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+ctype.h
+-
+string.h
+-
+../include/func.h
+/home/mim/Documents/SE_TPJeu/TPJeu_Ramcharn/include/func.h
+
